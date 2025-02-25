@@ -1,0 +1,22 @@
+{
+  "terminal_language": "Chinese",
+  "terminal_company": "MetaQuotes Software Corp.",
+  "terminal_name": "MetaTrader 5",
+  "terminal_path": "C:\\Program Files\\MetaTrader 5",
+  "terminal_data_path": "C:\\Users\\Username\\AppData\\Roaming\\MetaQuotes\\Terminal\\XXXXXXXXXXXXXXXX",
+  "terminal_common_data_path": "C:\\Users\\Username\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common",
+  "terminal_cpu_name": "Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz",
+  "terminal_cpu_architecture": "x86_64",
+  "terminal_os_version": "Windows 10 Pro 21H2",
+  "cpu_cores": 8,
+  "memory_physical": 16384,
+  "account_number": 12345678,
+  "broker_name": "Example Broker Ltd",
+  "account_trade_mode": "Demo",
+  "account_leverage": 100,
+  "account_currency": "USD",
+  "account_balance": 10000.00,
+  "account_equity": 10050.25,
+  "ea_version": "1.00",
+  "report_time": "2023.12.15 14:30:45"
+} 

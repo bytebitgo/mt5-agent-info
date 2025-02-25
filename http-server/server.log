@@ -1,0 +1,34 @@
+2025-02-26 00:59:19,723 - __main__ - INFO - ´´½¨ÁËÐÂµÄExcelÎÄ¼þ: ea_reports.xlsx
+2025-02-26 00:59:19,724 - __main__ - INFO - ·þÎñÆ÷Æô¶¯ÖÐ...
+2025-02-26 00:59:19,743 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.3.67:80
+2025-02-26 00:59:19,743 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-26 00:59:19,749 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 00:59:20,186 - __main__ - INFO - ·þÎñÆ÷Æô¶¯ÖÐ...
+2025-02-26 00:59:20,194 - werkzeug - WARNING -  * Debugger is active!
+2025-02-26 00:59:20,196 - werkzeug - INFO -  * Debugger PIN: 141-855-365
+2025-02-26 00:59:28,841 - __main__ - INFO - ½ÓÊÕµ½Êý¾Ý£¬ÈÎÎñID: 1fc188a8-83bd-4bfa-95eb-95f4d3c4bdb6
+2025-02-26 00:59:28,855 - werkzeug - INFO - 127.0.0.1 - - [26/Feb/2025 00:59:28] "POST /apv/v1/analyesis HTTP/1.1" 200 -
+2025-02-26 00:59:29,026 - __main__ - INFO - ³É¹¦½«Êý¾Ý±£´æµ½Excel£¬ÈÎÎñID: 1fc188a8-83bd-4bfa-95eb-95f4d3c4bdb6
+2025-02-26 01:03:01,785 - werkzeug - INFO -  * Detected change in 'e:\\mycursor\\p10\\http-server\\app.py', reloading
+2025-02-26 01:03:01,795 - werkzeug - INFO -  * Detected change in 'e:\\mycursor\\p10\\http-server\\app.py', reloading
+2025-02-26 01:03:02,704 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 01:03:03,173 - __main__ - INFO - ·þÎñÆ÷Æô¶¯ÖÐ...
+2025-02-26 01:03:03,182 - werkzeug - WARNING -  * Debugger is active!
+2025-02-26 01:03:03,184 - werkzeug - INFO -  * Debugger PIN: 141-855-365
+2025-02-26 01:03:21,098 - werkzeug - INFO -  * Detected change in 'e:\\mycursor\\p10\\http-server\\test_client.py', reloading
+2025-02-26 01:03:21,107 - werkzeug - INFO -  * Detected change in 'e:\\mycursor\\p10\\http-server\\test_client.py', reloading
+2025-02-26 01:03:21,319 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 01:03:21,801 - __main__ - INFO - ·þÎñÆ÷Æô¶¯ÖÐ...
+2025-02-26 01:03:21,811 - werkzeug - WARNING -  * Debugger is active!
+2025-02-26 01:03:21,813 - werkzeug - INFO -  * Debugger PIN: 141-855-365
+2025-02-26 01:04:18,269 - werkzeug - INFO -  * Detected change in 'e:\\mycursor\\p10\\http-server\\app.py', reloading
+2025-02-26 01:04:18,269 - werkzeug - INFO -  * Detected change in 'e:\\mycursor\\p10\\http-server\\test_client.py', reloading
+2025-02-26 01:04:18,269 - werkzeug - INFO -  * Detected change in 'e:\\mycursor\\p10\\http-server\\test_client.py', reloading
+2025-02-26 01:04:18,269 - werkzeug - INFO -  * Detected change in 'e:\\mycursor\\p10\\http-server\\app.py', reloading
+2025-02-26 01:04:18,960 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-26 01:04:19,441 - __main__ - INFO - ·þÎñÆ÷Æô¶¯ÖÐ...
+2025-02-26 01:04:19,449 - werkzeug - WARNING -  * Debugger is active!
+2025-02-26 01:04:19,452 - werkzeug - INFO -  * Debugger PIN: 141-855-365
